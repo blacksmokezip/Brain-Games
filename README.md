@@ -3,3 +3,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/6ff1215b2e33d3d8e2d2/maintainability)](https://codeclimate.com/github/blacksmokezip/python-project-49/maintainability)
 [**Аскинема Brain-Even**](https://asciinema.org/a/kqNxorHRTnn5Mtq8KisK28U23)
 [**Аскинема Brain-Calc**](https://asciinema.org/a/0NlUX5UdlNvYTrB8m4mgLwkAl)
+[**Аскинема Brain-GCD**](https://asciinema.org/a/Xi2kg84N9yt1kSQ8b5Ox49tbz)
