@@ -4,3 +4,4 @@
 [**Аскинема Brain-Even**](https://asciinema.org/a/kqNxorHRTnn5Mtq8KisK28U23)
 [**Аскинема Brain-Calc**](https://asciinema.org/a/0NlUX5UdlNvYTrB8m4mgLwkAl)
 [**Аскинема Brain-GCD**](https://asciinema.org/a/Xi2kg84N9yt1kSQ8b5Ox49tbz)
+[**Аскинема Brain-Progression**](https://asciinema.org/a/h0Q1n02eTcKMvnBHCNfCTXZ6G)
