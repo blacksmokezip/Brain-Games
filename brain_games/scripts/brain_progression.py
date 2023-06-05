@@ -3,8 +3,8 @@ from brain_games.games import br_progression
 
 
 def main():
-	engine(br_progression)
+    engine(br_progression)
 
 
 if __name__ == '__main__':
-	main()
+    main()

@@ -3,8 +3,8 @@ from brain_games.games import br_even
 
 
 def main():
-	engine(br_even)
+    engine(br_even)
 
 
 if __name__ == '__main__':
-	main()
+    main()
