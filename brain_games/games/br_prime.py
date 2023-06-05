@@ -7,7 +7,7 @@ def task():
 
 
 def question():
-    question = randint(1, 100)
+    question = randint(2, 100)
     counter = 0
     for i in range(2, question // 2+1):
         if (question % i == 0):
