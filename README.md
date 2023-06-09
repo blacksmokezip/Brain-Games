@@ -8,7 +8,7 @@ Set of command line math puzzles
 
 ### Install
 ---
-pip install git+https://github.com/blacksmokezip/python-project-49
+> pip install git+https://github.com/blacksmokezip/python-project-49
 
 **Game** | **Description**
 --- | ---
