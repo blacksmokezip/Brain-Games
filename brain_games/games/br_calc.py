@@ -1,9 +1,7 @@
 from random import randint, choice
 
 
-def task():
-    task = 'What is the result of the expression?'
-    return task
+DESCRIPTION = 'What is the result of the expression?'
 
 
 def question():

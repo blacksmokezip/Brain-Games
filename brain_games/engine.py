@@ -4,7 +4,7 @@ import prompt
 def engine(logic):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!\n{logic.task()}')
+    print(f'Hello, {name}!\n{logic.DESCRIPTION}')
     correct_answers = 0
     while correct_answers <= 3:
         question_and_correct = logic.question()

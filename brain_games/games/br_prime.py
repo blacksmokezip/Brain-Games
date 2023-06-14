@@ -1,9 +1,7 @@
 from random import randint
 
 
-def task():
-    task = 'Answer "yes" if given number is prime. Otherwise answer "no".'
-    return task
+DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def question():

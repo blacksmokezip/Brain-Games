@@ -1,9 +1,7 @@
 from random import randint
 
 
-def task():
-    task = 'Answer "yes" if the number is even, otherwise answer "no".'
-    return task
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def question():

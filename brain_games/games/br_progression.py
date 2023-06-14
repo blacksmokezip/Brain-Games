@@ -1,9 +1,7 @@
 from random import randint
 
 
-def task():
-    task = 'What number is missing in the progression?'
-    return task
+DESCRIPTION = 'What number is missing in the progression?'
 
 
 def question():

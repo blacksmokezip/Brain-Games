@@ -2,9 +2,7 @@ from random import randint
 from math import gcd
 
 
-def task():
-    task = 'Find the greatest common divisor of given numbers.'
-    return task
+DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 
 def question():
