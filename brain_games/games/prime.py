@@ -4,7 +4,7 @@ from math import sqrt
 
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
-  
+
 def get_round():
     question = randint(0, 100)
     answer = 'yes' if is_prime(question) else 'no'
